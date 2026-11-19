@@ -1,0 +1,401 @@
+[
+  {
+    "id": "coxs-bazar-sea-beach",
+    "name": {
+      "en": "Cox's Bazar Sea Beach",
+      "bn": "কক্সবাজার সমুদ্রসৈকত"
+    },
+    "division": "chattogram",
+    "lat": 21.4272,
+    "lng": 92.0058,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "The world’s longest natural sea beach",
+      "bn": "পৃথিবীর দীর্ঘতম প্রাকৃতিক সমুদ্রসৈকত"
+    },
+    "image": "/assets/Tourism/coxs-bazar.jpg",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "saint-martins-island",
+    "name": {
+      "en": "Saint Martin's Island",
+      "bn": "সেন্ট মার্টিন দ্বীপ"
+    },
+    "division": "chattogram",
+    "lat": 20.6276,
+    "lng": 92.3221,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "The only coral island of Bangladesh",
+      "bn": "বাংলাদেশের একমাত্র প্রবালদ্বীপ"
+    },
+    "image": "/assets/Tourism/saint-martin.jpg",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "rangamati-and-kaptai-lake",
+    "name": {
+      "en": "Rangamati & Kaptai Lake",
+      "bn": "রাঙামাটি ও কাপ্তাই হ্রদ"
+    },
+    "division": "chattogram",
+    "lat": 22.65,
+    "lng": 92.17,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "Turquoise lake among the green hills",
+      "bn": "সবুজ পাহাড়ের কোলে নীল হ্রদ"
+    },
+    "image": "/assets/Tourism/rangamati.jpg",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "sundarbans",
+    "name": {
+      "en": "Sundarbans",
+      "bn": "সুন্দরবন"
+    },
+    "division": "khulna",
+    "lat": 22.3,
+    "lng": 89.5,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "Largest mangrove forest on Earth",
+      "bn": "পৃথিবীর বৃহত্তম ম্যানগ্রোভ বন"
+    },
+    "image": "/assets/Tourism/sundarbans.jpg",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "sixty-dome-mosque-bagerhat",
+    "name": {
+      "en": "Sixty Dome Mosque, Bagerhat",
+      "bn": "ষাটগম্বুজ মসজিদ, বাগেরহাট"
+    },
+    "division": "khulna",
+    "lat": 22.6742,
+    "lng": 89.7427,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "A 15th-century UNESCO mosque city",
+      "bn": "পঞ্চদশ শতকের ইউনেস্কো-স্বীকৃত মসজিদের শহর"
+    },
+    "image": "/assets/Tourism/sixty-dome-mosque.jpg",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "kuakata-sea-beach",
+    "name": {
+      "en": "Kuakata Sea Beach",
+      "bn": "কুয়াকাটা সমুদ্রসৈকত"
+    },
+    "division": "barishal",
+    "lat": 21.8167,
+    "lng": 90.1167,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "Sunrise and sunset over the sea",
+      "bn": "সমুদ্রে সূর্যোদয় ও সূর্যাস্ত"
+    },
+    "image": "/assets/images/landmarks/TODO.webp",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "lalbagh-fort",
+    "name": {
+      "en": "Lalbagh Fort",
+      "bn": "লালবাগ কেল্লা"
+    },
+    "division": "dhaka",
+    "lat": 23.7188,
+    "lng": 90.3883,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "An unfinished Mughal fort in Old Dhaka",
+      "bn": "পুরান ঢাকার অসমাপ্ত মোগল দুর্গ"
+    },
+    "image": "/assets/images/landmarks/TODO.webp",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "ahsan-manzil",
+    "name": {
+      "en": "Ahsan Manzil",
+      "bn": "আহসান মঞ্জিল"
+    },
+    "division": "dhaka",
+    "lat": 23.7086,
+    "lng": 90.406,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "The Pink Palace on the Buriganga",
+      "bn": "বুড়িগঙ্গার তীরে গোলাপি প্রাসাদ"
+    },
+    "image": "/assets/images/landmarks/TODO.webp",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "shaheed-minar",
+    "name": {
+      "en": "Shaheed Minar",
+      "bn": "শহীদ মিনার"
+    },
+    "division": "dhaka",
+    "lat": 23.7256,
+    "lng": 90.3956,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "Memorial to the Language Movement of 1952",
+      "bn": "১৯৫২ সালের ভাষা আন্দোলনের স্মারক"
+    },
+    "image": "/assets/images/landmarks/TODO.webp",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "jatiya-sangsad-bhaban",
+    "name": {
+      "en": "Jatiya Sangsad Bhaban",
+      "bn": "জাতীয় সংসদ ভবন"
+    },
+    "division": "dhaka",
+    "lat": 23.7626,
+    "lng": 90.3781,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "Louis Kahn’s modernist masterpiece",
+      "bn": "লুই কানের আধুনিক স্থাপত্যকীর্তি"
+    },
+    "image": "/assets/images/landmarks/TODO.webp",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "national-martyrs-memorial-savar",
+    "name": {
+      "en": "National Martyrs' Memorial, Savar",
+      "bn": "জাতীয় স্মৃতিসৌধ, সাভার"
+    },
+    "division": "dhaka",
+    "lat": 23.9106,
+    "lng": 90.26,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "Monument to the martyrs of 1971",
+      "bn": "১৯৭১-এর শহীদদের স্মৃতিস্তম্ভ"
+    },
+    "image": "/assets/images/landmarks/TODO.webp",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "sonargaon",
+    "name": {
+      "en": "Sonargaon",
+      "bn": "সোনারগাঁও"
+    },
+    "division": "dhaka",
+    "lat": 23.65,
+    "lng": 90.6,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "Ancient capital and home of muslin",
+      "bn": "প্রাচীন রাজধানী, মসলিনের দেশ"
+    },
+    "image": "/assets/images/landmarks/TODO.webp",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "srimangal-tea-gardens",
+    "name": {
+      "en": "Srimangal Tea Gardens",
+      "bn": "শ্রীমঙ্গলের চা-বাগান"
+    },
+    "division": "sylhet",
+    "lat": 24.3065,
+    "lng": 91.7296,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "The tea capital of Bangladesh",
+      "bn": "বাংলাদেশের চায়ের রাজধানী"
+    },
+    "image": "/assets/images/landmarks/TODO.webp",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "jaflong",
+    "name": {
+      "en": "Jaflong",
+      "bn": "জাফলং"
+    },
+    "division": "sylhet",
+    "lat": 25.1594,
+    "lng": 92.0186,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "Clear stone rivers beneath the hills",
+      "bn": "পাহাড়ের নিচে স্বচ্ছ পাথুরে নদী"
+    },
+    "image": "/assets/images/landmarks/TODO.webp",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "ratargul-swamp-forest",
+    "name": {
+      "en": "Ratargul Swamp Forest",
+      "bn": "রাতারগুল জলাবন"
+    },
+    "division": "sylhet",
+    "lat": 25,
+    "lng": 91.93,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "A freshwater swamp forest",
+      "bn": "মিঠাপানির জলাবন"
+    },
+    "image": "/assets/images/landmarks/TODO.webp",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "tanguar-haor",
+    "name": {
+      "en": "Tanguar Haor",
+      "bn": "টাঙ্গুয়ার হাওর"
+    },
+    "division": "sylhet",
+    "lat": 25.1,
+    "lng": 91.1,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "A Ramsar wetland of migratory birds",
+      "bn": "পরিযায়ী পাখির রামসার জলাভূমি"
+    },
+    "image": "/assets/images/landmarks/TODO.webp",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "paharpur-buddhist-vihara",
+    "name": {
+      "en": "Paharpur Buddhist Vihara",
+      "bn": "পাহাড়পুর বৌদ্ধবিহার"
+    },
+    "division": "rajshahi",
+    "lat": 25.031,
+    "lng": 88.9767,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "Somapura Mahavihara, UNESCO World Heritage",
+      "bn": "সোমপুর মহাবিহার, ইউনেস্কো বিশ্ব ঐতিহ্য"
+    },
+    "image": "/assets/images/landmarks/TODO.webp",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "mahasthangarh",
+    "name": {
+      "en": "Mahasthangarh",
+      "bn": "মহাস্থানগড়"
+    },
+    "division": "rajshahi",
+    "lat": 24.9553,
+    "lng": 89.3547,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "The oldest city site in Bangladesh",
+      "bn": "বাংলাদেশের প্রাচীনতম নগরকেন্দ্র"
+    },
+    "image": "/assets/images/landmarks/TODO.webp",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "puthia-temple-complex",
+    "name": {
+      "en": "Puthia Temple Complex",
+      "bn": "পুঠিয়া মন্দির কমপ্লেক্স"
+    },
+    "division": "rajshahi",
+    "lat": 24.366,
+    "lng": 88.843,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "Terracotta temples of the Puthia rajas",
+      "bn": "পুঠিয়া রাজাদের পোড়ামাটির মন্দির"
+    },
+    "image": "/assets/images/landmarks/TODO.webp",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "kantajew-temple",
+    "name": {
+      "en": "Kantajew Temple",
+      "bn": "কান্তজীর মন্দির"
+    },
+    "division": "rangpur",
+    "lat": 25.79,
+    "lng": 88.66,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "The finest terracotta temple in Bengal",
+      "bn": "বাংলার শ্রেষ্ঠ পোড়ামাটির মন্দির"
+    },
+    "image": "/assets/images/landmarks/TODO.webp",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  },
+  {
+    "id": "mainamati",
+    "name": {
+      "en": "Mainamati",
+      "bn": "ময়নামতি"
+    },
+    "division": "chattogram",
+    "lat": 23.43,
+    "lng": 91.13,
+    "coordsApproximate": true,
+    "tagline": {
+      "en": "Buddhist ruins near Cumilla",
+      "bn": "কুমিল্লার বৌদ্ধ প্রত্নস্থল"
+    },
+    "image": "/assets/images/landmarks/TODO.webp",
+    "cutout": "/assets/images/landmarks/TODO-cutout.png",
+    "credit": "TODO",
+    "pillar": "tourism"
+  }
+]
